@@ -7,12 +7,15 @@ In this project, machine learning has been used to analyse data from the Enron C
 This repository contains a number of files created as part of this project:
 
 1. Person_of_interest_classifier.py
+
 This file contains the python code used to initially load and clean the data (using the NumPy and pandas libraries) and then test a range of classifiers using the scikit-learn package.
 
 2. Enron Submission Free-Response Questions.html
+
 In this document I talk about data, explaining why I chose the features that I did to test the classifiers against, and the different results that I achieved with the different algorithms tested.
 
 3.  - feature_format.py
     - final_project_dataset.pkl
     - tester.py
-These files are helper files required to run Person_of_interest_classifier.py
+
+These are helper files required to run Person_of_interest_classifier.py
